@@ -1,4 +1,4 @@
-//destructive JS function without curly braces
+
 
 var playlist = {'Slowdive': 'Alison', 'My Bloody Valentine': 'Sometimes'}
 function updatePlaylist(playlist, artistName, songTitle) {
